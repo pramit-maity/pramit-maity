@@ -20,40 +20,34 @@
 
 <br/>
 
-<table border="0" cellspacing="0" cellpadding="20">
+<table border="0" cellspacing="0" cellpadding="10" width="100%">
 <tr>
-<td width="48%" align="center" valign="middle">
+<td width="45%" align="center" valign="middle">
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="360"/>
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%"/>
 
 </td>
-<td width="52%" valign="top">
+<td width="55%" valign="middle">
 
 ```yaml
- 👤  Pramit Maity
- 📍  India 🇮🇳
- 🎓  CS & Full Stack Dev
+ 👤 Name     : Pramit Maity
+ 📍 Location : India 🇮🇳
+ 🎓 Role     : CS Student & Full Stack Dev
 
- 🔭  Currently Building:
-     → Web & software projects
-       solving real problems
+ 🔭 Building : Web & software projects that
+               solve real-world problems
 
- 🌱  Currently Learning:
-     → Full Stack Development
-     → Data Structures & Algos
-     → Cloud Computing
+ 🌱 Learning : Full Stack Development
+               Data Structures & Algorithms
+               Cloud Computing
 
- 🤝  Looking to Collaborate:
-     → Open Source Projects
-     → Innovative Tech Ideas
+ 🤝 Collab   : Open Source & Innovative Ideas
 
- 💬  Ask Me About:
-     → C · C++ · Python · JS
-     → Web Dev · DSA · ML
+ 💬 Ask Me   : C · C++ · Python · JavaScript
+               Web Dev · DSA · ML
 
- ⚡  Fun Fact:
-     → Debugs for hours &
-       calls it productive 😄
+ ⚡ Fun Fact : Debugs for hours and still
+               calls it a productive day 😄
 ```
 
 </td>
@@ -64,11 +58,15 @@
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"/> &nbsp;Connect With Me
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"/> &nbsp;Connect With Me
 
 <br/>
 
 <div align="center">
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"/>
+
+<br/><br/>
 
 <a href="https://linkedin.com/in/pramit-maity-745776375">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="30"/>
@@ -105,6 +103,16 @@
 <br/>
 
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f3bfa580b1dc.gif" width="50"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="50"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="50"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="50"/>
+<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4428-8907-1a3d3e548616.gif" width="50"/>
+<img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="50"/>
+
+<br/><br/>
 
 ### ◈ &nbsp;Languages&nbsp; ◈
 
@@ -174,13 +182,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pramit-maity&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa&text_color=CDD6F4&border_radius=15&include_all_commits=true&count_private=true" height="175"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pramit-maity&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&text_color=CDD6F4&border_radius=15&include_all_commits=true&count_private=true" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api?username=pramit-maity&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa&text_color=CDD6F4&border_radius=15&include_all_commits=true&count_private=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pramit-maity&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&text_color=CDD6F4&border_radius=15&include_all_commits=true&count_private=true" width="42%"/>
 
 <br/><br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=pramit-maity&theme=tokyonight&hide_border=true&background=0D1117&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa&border_radius=15" width="55%"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=pramit-maity&theme=tokyonight&hide_border=true&background=0D1117&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa&border_radius=15" width="60%"/>
 
 </div>
 
@@ -188,13 +195,13 @@
 
 ---
 
-## 🏆 &nbsp;GitHub Trophies
+## <img src="https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="30"/> &nbsp;GitHub Trophies
 
 <br/>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=pramit-maity&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=pramit-maity&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4" width="90%"/>
 
 </div>
 
@@ -202,7 +209,7 @@
 
 ---
 
-## 📈 &nbsp;Contribution Activity
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"/> &nbsp;Contribution Activity
 
 <br/>
 
@@ -216,7 +223,7 @@
 
 ---
 
-## 🔝 &nbsp;Top Contributed Repos
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30"/> &nbsp;Top Contributed Repos
 
 <br/>
 
@@ -230,7 +237,7 @@
 
 ---
 
-## ✍️ &nbsp;Random Dev Quote
+## <img src="https://media.giphy.com/media/7TcdxHjnHBCZ9WKzuZ/giphy.gif" width="30"/> &nbsp;Random Dev Quote
 
 <br/>
 
@@ -244,7 +251,7 @@
 
 ---
 
-## 💰 &nbsp;Support My Work
+## <img src="https://media.giphy.com/media/3oEdv6TVgSRKpADT4A/giphy.gif" width="30"/> &nbsp;Support My Work
 
 <br/>
 
